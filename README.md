@@ -2,7 +2,7 @@
 
 Mechanical Engineering student at the University of Leeds building simulation systems, engineering software, and technical products.
 
-I enjoy working on systems where engineering, software, and real-world infrastructure intersect — especially simulation, modelling, and technical tooling.
+I enjoy working on systems where engineering, software, and real-world infrastructure intersect - especially simulation, modelling, and technical tooling.
 
 ---
 
