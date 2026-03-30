@@ -1,16 +1,14 @@
-## Hi there 👋
+Mechanical Engineering student at the University of Leeds building technical systems and engineering software.
 
-<!--
-**willcook415/willcook415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main projects:
+• Interlinked – transport simulation engine (Rust + Tauri)
+• Engineering Tools Hub – engineering calculation platform (React + TypeScript)
+• Forge – engineering DSL with dimensional analysis
 
-Here are some ideas to get you started:
+Interests:
+Simulation systems
+Engineering software
+Infrastructure and transport modelling
+Technical product development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for Summer 2026 technical internships.
