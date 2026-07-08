@@ -90,5 +90,5 @@ Building technical systems outside my degree and looking for opportunities to co
 
 ## Contact
 
-Email: willcook2004@outlook.com
+Email: williamcook4701@gmail.com
 LinkedIn: https://www.linkedin.com/in/william-g-cook/
